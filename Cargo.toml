@@ -1,0 +1,11 @@
+[package]
+name = "apk-puller"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+adb_client = "1.0.6"
+clap = "4.5.17"
+clap_derive = "4.5.13"
+home = "0.5.9"
+regex = "1.10.6"
